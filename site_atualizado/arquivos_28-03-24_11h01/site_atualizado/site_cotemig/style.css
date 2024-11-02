@@ -1,0 +1,162 @@
+table {width: 100%;
+height: 950px;
+background-image:url(images/fundo\ 1.png) ;
+background-size:cover ;}
+
+body {margin:0;}
+
+#logo {background-color: rgba(58, 11, 99, 1);}
+
+td {width: 25%;}
+
+.pink{background-color:rgba(251, 69, 199, 1) ;}
+
+.texto{font-family: "Raleway", sans-serif;}
+
+#telefone{text-align: center;}
+
+#formulario{text-align: center;
+width: 90%;
+height: 90%;}
+
+#div1{ font-family: "Roboto" , sans-serif;
+color: #fff;
+font-size: 25px;}
+
+#div2{
+ font-family: "Raleway",sans-serif;
+color: #fff;
+font-size: 17px;
+font-weight: bold;}
+
+ #div3{ font-family: "Raleway", sans-serif;
+    color: #fff;
+font-size: 16px;
+text-align: justify;}
+
+#padding{ padding: 0% 3% 0% 2%;
+line-height: 24px;}
+
+.green {background-color: #89f668;
+height: 320px;
+text-align: center;}
+
+#coluna {
+    column-count: 3;
+}
+
+#text{font-size: 18px;
+text-align: justify;
+font-family: Raleway, sans-serif;
+color: #661083;
+font-weight: bold;}
+
+.purple{background-color: rgba(67,11,110,1);}
+
+#div4{font-family: "Raleway", sans-serif;
+    color: #89F668;
+font-size: 32px;
+text-align: center;
+font-weight: bold;}
+
+
+#div5{color: rgb(137, 246, 104);
+    font-size: 24px;
+    font-family: "Raleway", sans-serif;
+     font-weight: bold;}
+
+.image{width: 455px;
+}
+
+.div6{color: rgb(137, 246, 104);
+    font-size: 24px;
+    font-family: "Raleway", sans-serif;
+text-align: center;}
+
+.div7{ color: rgb(137,246,104);
+font-family: "Raleway", sans-serif;
+font-size: 18px;
+text-align: justify;
+text-align: center;}
+
+.espaco{padding-bottom: 24px;}
+
+.fundo{background-color: #5b1078;}
+
+.div8{font-family: "Raleway", sans-serif;
+    font-size: 24px;
+    color: rgb(137, 246, 104);}
+
+#image06{width: 459px;
+    height: auto;
+    vertical-align: middle;}
+
+#image05{width: 459px;
+    height: auto;
+    max-width: 100%;}
+
+ .div09 {color: rgb(137, 246, 104);
+    font-size: 24px;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+}
+
+.div10{font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    color: rgb(137, 246, 104);
+text-align: center;}
+
+.div11{color: rgb(137, 246, 104);
+    font-size: 24px;
+    font-family: "Raleway", sans-serif;
+text-align: center;}
+
+.div11_{color: rgb(137, 246, 104);
+    font-size: 18px;
+    font-family: "Raleway", sans-serif;
+text-align: center;}
+
+.div12{font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    color: rgb(137, 246, 104);
+text-align: center;}
+
+#image04{vertical-align: middle;
+max-width: 100%;
+height: auto;}
+
+#image03{color: rgb(137, 246, 104);
+    font-size: 24px;
+    font-family: Raleway, sans-serif;}
+
+.div13{color: rgb(137, 246, 104);
+    font-size: 24px;
+    font-family: "Raleway", sans-serif;
+    text-align: center;}
+
+.div14{color: rgb(137, 246, 104);
+    font-size: 18px;
+    font-family: "Raleway", sans-serif;
+    text-align: center;}
+
+#botao{background-color: rgba(138, 77, 157, 1);
+color: #FFFFFF;
+padding: 20px;
+margin-left: 450px;
+border-radius: 11px;
+margin-top: 30px;}
+
+#centralizar{ text-align: center;
+column-count: 3;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(255,255,255);
+font-size: 16px;
+padding: 30px;}
+
+.matriculas{text-align: center;
+height: 70%;
+width: 80%;}
+
+.cotemig{text-align: center;}
+
+.google{text-align: center;}
